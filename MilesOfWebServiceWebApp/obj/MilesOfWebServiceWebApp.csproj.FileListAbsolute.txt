@@ -1,0 +1,5 @@
+C:\Users\Bill\Documents\Visual Studio 2005\Projects\MilesOfWebServicePromo\MilesOfWebServiceWebApp\bin\MilesOfWebServiceWebApp.dll
+C:\Users\Bill\Documents\Visual Studio 2005\Projects\MilesOfWebServicePromo\MilesOfWebServiceWebApp\bin\MilesOfWebServiceWebApp.pdb
+C:\Users\Bill\Documents\Visual Studio 2005\Projects\MilesOfWebServicePromo\MilesOfWebServiceWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\Documents\Visual Studio 2005\Projects\MilesOfWebServicePromo\MilesOfWebServiceWebApp\obj\Debug\MilesOfWebServiceWebApp.dll
+C:\Users\Bill\Documents\Visual Studio 2005\Projects\MilesOfWebServicePromo\MilesOfWebServiceWebApp\obj\Debug\MilesOfWebServiceWebApp.pdb

@@ -1,0 +1,64 @@
+﻿body 
+{
+	margin: 0px auto;
+	padding: 0px;
+	text-align: center;
+	background-color: Teal;
+}
+
+#divMstrContainer
+{
+	width: 800px;	
+	margin: 0px auto;
+	padding: 0px;
+	text-align: left;
+	background-color: #ffffff;
+	border: double 3px #000000;
+	font-family: Arial, Verdana, Sans-Serif;
+	font-size: 11px;
+}
+
+#divMstrHdr
+{
+	margin: 0px auto;
+	padding: 0px;
+	width: 800px;	
+	font-size: 12px;
+	border-bottom: solid 1px black;
+}
+
+#divMstrMid
+{
+	margin: 0px auto;
+	padding: 0px;
+	width: 800px;
+}
+
+
+
+#divMstrFtr
+{
+	margin: 0px auto;
+	padding: 0px;
+	border-top: solid 1px black;
+	width: 800px;	
+	font-size: 9px;
+	color: #ffffff;
+	background-color: #333333;
+}
+
+
+#divPageContent
+{
+	width: 750px;
+	margin: 0px;
+	padding: 12px;
+}
+
+.titleMoWS
+{
+	font-weight: bold;
+	text-decoration: underline;
+	color: Teal;
+}
+	

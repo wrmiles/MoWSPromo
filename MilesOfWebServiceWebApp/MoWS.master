@@ -1,0 +1,50 @@
+<%@ master language="C#" autoeventwireup="true" inherits="MoWS, App_Web_mows.master.cdcab7d2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Miles of Web Service - A Web Site/Web Application Development company</title>
+    <meta name="keywords" content=".net, web, site, website, application, web application, development, web development, design, web design, internet, wwww, css, javascript, jquery, .net 2.0, .net 3.5, C#, asp.net, ajax, asp.net ajax, sql, sql server, database, database integration, business, business logic, business logic solutions, web project" />
+    <meta name="description" content="Miles of Web Service - A Web Site/Web Application Development company.  Miles of Web Service is Microsoft .Net Web Application/Web Site development company with over five years of .net experience.  We are located in Mesa, AZ. and currently available for contract work.  Miles of Web Service specializes in developing business logic to web sites and web applications.  We utilize client side scripting such as JavaScript, jQuery and AJAX to avoid un-nessesary postbacks to the server as well as server side coding in .NET 3.5 for SQL server database integration." />
+    <asp:contentplaceholder id="HeaderPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        <link rel="Stylesheet" type="text/css" href="css/MoWS.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="divMstrContainer">
+        <div id="divMstrHdr">
+            <table cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                    <td valign="top">
+                        <a href="default.aspx"><img src="images/mowsfo1.gif" alt="Miles of Web Service" style="border: none;" /></a>
+                    </td>
+                    <td valign="top">
+                        <a href="resumeWRM2009.pdf" target="_blank">Corporate Experience</a>
+                    </td>
+                    <td valign="top">
+                        <a href="samples.aspx">Work Samples</a>
+                    </td>
+                </tr>
+            </table>
+            
+        </div>
+        <div id="divMstrMid">
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+            </asp:contentplaceholder>
+        </div>
+        <div id="divMstrFtr">
+            <div style="padding: 12px; text-align: center;">
+                &copy; Copyright <asp:Label ID="lblCopyrightYear" runat="server" /><br />
+                Miles of Web Service<br />
+                William R. Miles<br />
+                Mesa, AZ<br />
+                All Rights Reserved<br />
+            </div>
+            
+        </div>
+    </div>
+    </form>
+</body>
+</html>
